@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Chess4kids]]></title>
         <description><![CDATA[Chess4kids]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chess4kids/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 04:56:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 08:16:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chess4kids/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9940f51f-5fce-4062-8234-28fedf5c8b8b.jpg">]]></description>
+            <link>https://thegrid.ai/chess4kids/b42978e4-b65c-44bb-9af1-fc10a9d4c134/index.html</link>
+            <guid isPermaLink="false">b42978e4-b65c-44bb-9af1-fc10a9d4c134</guid>
+            <pubDate>Tue, 05 Jan 2016 08:16:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Über Chess4kids]]></title>
             <description><![CDATA[<article><h1>Über Chess4kids</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9185aa197c828236520e7e7ef443b6b9323eed07.jpg"></article>]]></description>
-            <link>undefineduber-chess4kids/index.html</link>
+            <link>https://thegrid.ai/chess4kids/uber-chess4kids/index.html</link>
             <guid isPermaLink="false">2115b838-af50-474b-8159-63865c8ca9dc</guid>
             <pubDate>Tue, 05 Jan 2016 04:56:12 GMT</pubDate>
         </item>
